@@ -7,20 +7,20 @@ The included models are EfficientNet, VGG16 (Transfer Learning), and a Custom CN
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
-📦 **Project Root**
+📦 Project Root
 │
-├── 🧠 **Alzheimer_MRI_4_classes_dataset**
-│   ├── 🔴 MildDemented
-│   ├── 🟠 ModerateDemented
-│   ├── 🟢 NonDemented
-│   └── 🟡 VeryMildDemented
+├── 🧠 Alzheimer_MRI_4_classes_dataset
+│     ├── 🔴 MildDemented
+│     ├── 🟠 ModerateDemented
+│     ├── 🟢 NonDemented
+│     └── 🟡 VeryMildDemented
 │
-├── 📓 **notebooks**
-│   ├── 📘 EfficientNet.ipynb
-│   ├── 🏛️ VGG16.IPNYB.ipynb
-│   └── 🧩 alzheimer-detection.ipynb
+├── 📓 notebooks
+│     ├── 📘 EfficientNet.ipynb
+│     ├── 🏛️ VGG16.IPNYB.ipynb
+│     └── 🧩 alzheimer-detection.ipynb
 │
 ├── 📄 README.md
 ├── 📄 requirements.txt
